@@ -1,0 +1,10 @@
+jupyter 
+pyspark 
+fastapi 
+
+hdfs
+kazoo 
+uvicorn 
+
+
+
